@@ -1,2 +1,0 @@
-# BRCA-Clinical-Data-Analysis-Egypt-Digital-Pioneers-Graduation-Project
-This repository contains my graduation project from Egypt Digital Pioneers. The project focuses on analyzing clinical data for breast cancer (BRCA) patients, utilizing advanced techniques to uncover insights into disease progression and treatment outcomes. This work contributes to ongoing research efforts aimed at improving healthcare solutions
